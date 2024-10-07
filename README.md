@@ -1,15 +1,14 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :brurmartins
 
-Meu nome é Marcelo Paludetto
+Meu nome é Bruna Rosa Martins
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+00001141439992sp@al.educacao.gov.br
 
-@marcelopaludetto
 
 ![descrição do GIF](link GIF do Tenor)
