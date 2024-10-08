@@ -2,9 +2,9 @@
 
 Meu nome é Bruna Rosa Martins
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
+- Estou estudando na [Alura](https://www.alura.com.b🧑‍🎓
+- Estou me desenvolvendo na linguagem JavaScript😊
+- Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos🤩
 
 ### Você pode entrar em contato comigo :mailbox
 
